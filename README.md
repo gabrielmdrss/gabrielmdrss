@@ -2,6 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-medeiros-028501241/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_mdrss/)
+<a href = "https://open.spotify.com/user/31b6nfhg7mt3jeoaxrxvlyqthzh4?si=40d2598ac467412c"> <img src="https://img.shields.io/badge/Spotify-%DF0174?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" ></a>
+
 
 <div align="center">
 
