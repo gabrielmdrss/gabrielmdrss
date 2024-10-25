@@ -11,8 +11,8 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gabrielmdrss's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gabrielmdrss&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=204646&title_color=0496ef&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gabrielmdrss's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gabrielmdrss&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=204646&title_color=0496ef&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gabrielmdrss's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gabrielmdrss&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=204646&title_color=5de6e6&icon_color=28e6e6" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gabrielmdrss's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gabrielmdrss&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=204646&title_color=5de6e6&icon_color=28e6e6&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
 <details> 
@@ -24,36 +24,13 @@
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gabrielmdrss's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=gabrielmdrss&theme=blue&hide_border=true&bg_color=204646&title_color=5de6e6&title_color=5de6e6"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#724](https://github.com/DenverCoder1/github-readme-streak-stats/pull/724) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#343](https://github.com/DenverCoder1/readme-typing-svg/pull/343) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🗣 Commented on [#343](https://github.com/DenverCoder1/readme-typing-svg/issues/343) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. ❌ Closed PR [#341](https://github.com/DenverCoder1/readme-typing-svg/pull/341) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🎉 Merged PR [#722](https://github.com/DenverCoder1/github-readme-streak-stats/pull/722) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-<!--END_SECTION:activity-->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="gabrielmdrss's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gabrielmdrss&bg_color=204646&color=5de6e6&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
 
