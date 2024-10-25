@@ -11,13 +11,25 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gabrielmdrss's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gabrielmdrss&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=#0f0404&title_color=5de6e6&icon_color=28e6e6" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gabrielmdrss's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gabrielmdrss&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=2b221b&title_color=5de6e6&icon_color=28e6e6&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gabrielmdrss's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gabrielmdrss&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=212121&title_color=FB8C00&icon_color=FB8C00" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gabrielmdrss's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gabrielmdrss&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=212121&title_color=FB8C00&icon_color=FB8C00&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
 <details>
-  <summary><h2>​👨🏻‍💻​ About me</h2></summary>
+  <summary><h2>​​​​🙋🏻‍♂️​​ About me</h2></summary>
+
+  <!-- Presentation -->
+<p>
   
+  - ​​​​​​📚​ My name is Gabriel Domingos de Medeiros, I am 20 years old and I am in the sixth semester of the Computer Engineering course.
+
+  - ​​​​🖥️​ I am passionate about the area of ​​embedded systems and IoT. At the moment, I am participating in 2 innovation and development projects in this area. I deal with STM32 F4 family, ESP32 and raspberry PI. At the moment I am working with sensing and communication protocols.
+    
+  - ​​​​​🎧​ In addition to my undergraduate course, I really enjoy playing sports,listen to music, watching series, reading books and studying subjects relevant to my area of ​​vocation.
+    
+  - ​​​✈️​ I am currently looking for my first opportunity as a software developer for embedded devices and my biggest dream is to do an internship abroad in this area.
+</p>
+
 </details>
 
 <details>
@@ -68,7 +80,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="gabrielmdrss's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gabrielmdrss&bg_color=2b221b&color=5de6e6&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="gabrielmdrss's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gabrielmdrss&bg_color=212121&color=FFFFFF&line=FB8C00&point=FFFFFF&hide_border=true" /></a>
 
 </details>
 
