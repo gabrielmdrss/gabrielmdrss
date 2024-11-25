@@ -25,7 +25,7 @@
 
   - ​​​​🖥️​ I am passionate about the area of ​​embedded systems and IoT. At the moment, I am participating in 2 innovation and development projects in this area. I deal with STM32 F4 family, ESP32 and raspberry PI. At the moment I am working with sensing and communication protocols.
     
-  - ​​​​​🎧​ In addition to my undergraduate course, I really enjoy playing sports,listen to music, watching series, reading books and studying subjects relevant to my area of ​​vocation.
+  - ​​​​​🎧​ In addition to my undergraduate course, I really enjoy playing sports, listen to music, watching series, reading books and studying subjects relevant to my area of ​​vocation.
     
   - ​​​✈️​ I am currently looking for my first opportunity as a software developer for embedded devices and my biggest dream is to do an internship abroad in this area.
 </p>
