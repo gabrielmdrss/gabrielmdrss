@@ -16,7 +16,7 @@
   <br/>
 
 <details>
-  <summary><h2>​​​​🙋🏻‍♂️​​ About me</h2></summary>
+  <summary><h2>​​​​🙋🏻‍♂️​​ About me</h2></summary> 
 
   <!-- Presentation -->
 <p>
