@@ -27,7 +27,7 @@
     
   - ​​​​​🎧​ In addition to my undergraduate course, I really enjoy playing sports, listen to music, watching series, reading books and studying subjects relevant to my area of ​​vocation.
     
-  - ​​​✈️​ I am currently looking for my first opportunity as a software developer for embedded devices and my biggest dream is to do an internship abroad in this area.
+  - ​​​✈️​ I am currently looking for my first opportunity as a software developer for embedded devices and my biggest dream is to do an internship abroad in this area. 
 </p>
 
 </details>
