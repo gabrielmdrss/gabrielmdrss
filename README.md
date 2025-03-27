@@ -21,7 +21,7 @@
   <!-- Presentation -->
 <p>
   
-  - ​​​​​​📚​ My name is Gabriel Domingos de Medeiros, I am 20 years old and I am in the sixth semester of the Computer Engineering course.
+  - ​​​​​​📚​ My name is Gabriel Domingos de Medeiros, I am 20 years old and I am in the seventh semester of the Computer Engineering course.
 
   - ​​​​🖥️​ I am passionate about the area of ​​embedded systems and IoT. At the moment, I am participating in 2 innovation and development projects in this area. I deal with STM32 F4 family, ESP32 and raspberry PI. At the moment I am working with sensing and communication protocols.
     
